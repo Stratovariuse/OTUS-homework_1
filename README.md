@@ -1,3 +1,4 @@
+#  Работа с уровнями изоляции транзакции в PostgreSQL
 * Создан инстанс ВМ (имя - **otus**) в пространстве **Яндекс cloud**.
 * Создана VM VurtualBox c Ubuntu 22.04 LTP hostname **emameteva-VirtualBox**.
 * На VM emameteva-VirtualBox сгенерирован ssh, который добавим в инстанс вм в Яндекс.
